@@ -1,0 +1,14 @@
+C:\Users\FL\source\repos\cpdk\bin\x64\Release\net10.0\cpdk.exe
+C:\Users\FL\source\repos\cpdk\bin\x64\Release\net10.0\cpdk.deps.json
+C:\Users\FL\source\repos\cpdk\bin\x64\Release\net10.0\cpdk.runtimeconfig.json
+C:\Users\FL\source\repos\cpdk\bin\x64\Release\net10.0\cpdk.dll
+C:\Users\FL\source\repos\cpdk\bin\x64\Release\net10.0\cpdk.pdb
+C:\Users\FL\source\repos\cpdk\obj\x64\Release\net10.0\cpdk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FL\source\repos\cpdk\obj\x64\Release\net10.0\cpdk.AssemblyInfoInputs.cache
+C:\Users\FL\source\repos\cpdk\obj\x64\Release\net10.0\cpdk.AssemblyInfo.cs
+C:\Users\FL\source\repos\cpdk\obj\x64\Release\net10.0\cpdk.csproj.CoreCompileInputs.cache
+C:\Users\FL\source\repos\cpdk\obj\x64\Release\net10.0\cpdk.dll
+C:\Users\FL\source\repos\cpdk\obj\x64\Release\net10.0\refint\cpdk.dll
+C:\Users\FL\source\repos\cpdk\obj\x64\Release\net10.0\cpdk.pdb
+C:\Users\FL\source\repos\cpdk\obj\x64\Release\net10.0\cpdk.genruntimeconfig.cache
+C:\Users\FL\source\repos\cpdk\obj\x64\Release\net10.0\ref\cpdk.dll
